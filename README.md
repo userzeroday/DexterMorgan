@@ -1,6 +1,6 @@
 # 🩸 Dexter Morgan - Forense Digital
 
-**Uma suíte avançada de análise forense e investigação digital, criada por `Zeroday` para mentes que operam nas sombras.**
+**Uma suíte avançada de análise forense e investigação digital, criada por *Zeroday* para mentes que operam nas sombras.**
 
 ---
 
