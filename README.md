@@ -26,7 +26,7 @@
 
 ## 🛠️ Instalação
 
-bash
+''bash
 git clone https://github.com/userzeroday/DexterMorgan.git
 cd DexterMorgan
 pip install -r requirements.txt
