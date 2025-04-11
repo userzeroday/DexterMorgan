@@ -26,8 +26,8 @@
 
 ## 🛠️ Instalação
 
-```bash
-git clone https://github.com/seurepositorio/DexterMorgan.git
+bash
+git clone https://github.com/userzeroday/DexterMorgan.git
 cd DexterMorgan
 pip install -r requirements.txt
 sudo apt install tesseract-ocr
